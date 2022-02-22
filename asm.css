@@ -1,0 +1,189 @@
+.boxcenter{
+    width: 80%;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    height: 150px;
+    border: 1px solid #999 ;
+    background-color: rgb(255, 197, 226);
+}
+header a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-decoration: underline; 
+}
+header a:hover{
+    color: rgb(245, 0, 41);
+    text-decoration: underline;
+}
+header img{
+    width: 400px;
+    height: 150px;
+    position: absolute;
+    left: 30%;
+    opacity: 1;
+    background-image: linear-gradient(to right, pink , white , pink);
+}
+nav{
+    width: 100%;
+    height: 40px;
+    border: 1px solid #999 ;
+}
+.product{
+    width: 100%;
+    min-height: 700px;
+    border: 1px solid #999 ;
+}
+.image{
+    max-width: 80%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.price{
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    font-family: Impact;
+    font-size: 10px;
+    color: black;
+}
+.icons{
+    position: absolute;
+    right:5px;
+    bottom:5px;
+    width:25px;
+}
+.col-25{
+    width: 25%;
+    float: left;
+}
+.prod{
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+}
+article{
+    min-height: 700px;
+    width: 15%;
+    float: left;
+    border: 1px solid #999 ;
+}
+nav a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-decoration: underline;  
+}
+nav a:hover{
+    color: rgb(245, 0, 41);
+    text-decoration: underline;
+}
+
+.dangki{
+    float: left;
+    width: 700px;
+    padding: 0;
+    margin: auto;
+}
+#frmGhiDanh .tieude {
+    background-color: #999;
+    font-weight: bold;
+    text-align: right;
+}
+.topnav {
+    overflow: hidden;
+    background-color: white;
+  }
+   
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+   
+.topnav a:hover {
+    color: rgb(245, 0, 41);
+    text-decoration: underline;
+}
+.topnav a.active {
+    background-color: #2196F3;
+    color: #999;
+  }
+   
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+  }
+.bidi{
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 100px 100px;
+}
+.form{
+    width: 350px;
+    height: 250px;
+    }
+.form-gourp{
+    margin: 10px 2px ;
+    color: crimson;
+}
+.form-control{
+    margin: 3px 0px;
+    border: none;
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 0 0 3px black;
+    display : block;
+    outline: none;
+}
+footer{
+     background-color: white;
+    width: 100%;
+    height: 200px;
+
+        background-color:rgb(255, 197, 226);
+
+}   
+.center{
+
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+}
+.center-item{
+    width: 60%;
+    position: relative;
+}
+.center-img{
+    width: 35%;
+    margin-top: 0px;
+}
+footer a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    text-decoration: underline;  
+}
+footer a:hover{
+    color: rgb(147, 85, 209);
+    text-decoration: underline;
+}
+.yeuthich{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dangnhap{
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 100px 100px;
+}
